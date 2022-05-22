@@ -3,7 +3,7 @@ HighRadius is a Finetech enterprise Software-as-a-Service(SaaS) company which le
 and treasury processes.
 
 # Project(Payment Date Prediction)
-Prediction of the payment date of the customers who have not cleared there dues.
+Prediction of the payment date of the customers who have not cleared there dues using supervised machine learning models in Python.
 
 # Project(BackEnd(Java) and FrontEnd(ReactJs))
 Build a Full Stack Invoice Management Application using ReactJs, JDBC, Java, JSP which include:
