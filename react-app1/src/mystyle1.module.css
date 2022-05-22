@@ -1,0 +1,36 @@
+.img1{
+  display: block;
+  margin-right:auto;
+  margin-left: auto;
+  margin-top: auto;
+ 
+  width: 30%;
+}
+.img2{
+  display:block;
+  margin-right:auto;
+  width: 70%;
+}
+
+/* 
+ h1 {
+    
+    
+    color: rgb(35, 128, 128);
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+h2 {
+    
+    color: rgb(77, 65, 65);
+    padding: 40px;
+    font-family: Sans-Serif;
+    vertical-align: top;
+    text-align: left;
+  }    */
+  
+     
+    
+
+  
